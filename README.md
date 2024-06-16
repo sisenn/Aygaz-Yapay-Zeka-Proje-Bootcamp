@@ -29,7 +29,7 @@ Bu projeyi çalıştırmak için aşağıdaki adımları izleyin:
 ### 1.Depoyu Klonlayın:
 
 ```ruby
-git clone https://github.com/guryelf/aygaz_yapay_zeka_bootcamp.git
+git clone https://github.com/sisenn/Aygaz-Yapay-Zeka-Proje-Bootcamp/tree/main
 cd fashion-mnist-ml-comparison
 
 ```
